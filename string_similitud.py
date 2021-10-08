@@ -18,6 +18,8 @@ def compara_similutes(ptext1, ptext2) -> float:
 
 registros = 1
 
+#TODO: TRATA DE USAR UN HASH O JSON PARA QUE MUESTRES EL CODIGO DE LAS EMPRESAS PARECIDAS
+
 empresa = list(csv.reader(open("inputs\\nombre_empresas.csv")))
 empresa1 = []
 
