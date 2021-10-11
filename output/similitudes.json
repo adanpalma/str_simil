@@ -1,0 +1,1249 @@
+{
+   "105": {
+      "Nombre Empresa": "ACE INTERNATIONAL HARDWARE CORP.",
+      "simil": [
+         {
+            "codigo": "2555",
+            "nombre": "ACE INTERNATIONAL HARDWARE CORP",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "2555": {
+      "Nombre Empresa": "ACE INTERNATIONAL HARDWARE CORP",
+      "simil": [
+         {
+            "codigo": "105",
+            "nombre": "ACE INTERNATIONAL HARDWARE CORP.",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "2680\"": {
+      "Nombre Empresa": "\"AGENCIA DE SEGURIDAD URRACA, S.A.",
+      "simil": [
+         {
+            "codigo": "12909\"",
+            "nombre": "\"AGENCIA DE SEGURIDAD Y PROTECCION AZUERO, S.A.",
+            "avgjrowinkler": 85.33333333333333,
+            "avgjellymatchratingcodex": 85.33333333333333
+         }
+      ]
+   },
+   "12909\"": {
+      "Nombre Empresa": "\"AGENCIA DE SEGURIDAD Y PROTECCION AZUERO, S.A.",
+      "simil": [
+         {
+            "codigo": "2680\"",
+            "nombre": "\"AGENCIA DE SEGURIDAD URRACA, S.A.",
+            "avgjrowinkler": 85.33333333333333,
+            "avgjellymatchratingcodex": 85.33333333333333
+         }
+      ]
+   },
+   "14913\"": {
+      "Nombre Empresa": "\"AIRCRAFT SERVICE AND CONSULTING, S.A.",
+      "simil": [
+         {
+            "codigo": "12570\"",
+            "nombre": "\"AIRCRAFT SERVICE AND CONSULTING, S.A",
+            "avgjrowinkler": 92.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "12570\"": {
+      "Nombre Empresa": "\"AIRCRAFT SERVICE AND CONSULTING, S.A",
+      "simil": [
+         {
+            "codigo": "14913\"",
+            "nombre": "\"AIRCRAFT SERVICE AND CONSULTING, S.A.",
+            "avgjrowinkler": 92.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "2583\"": {
+      "Nombre Empresa": "\"ALMANCAR, S.A. (2)",
+      "simil": [
+         {
+            "codigo": "7491\"",
+            "nombre": "\"ALMANCAR, S.A.",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "7491\"": {
+      "Nombre Empresa": "\"ALMANCAR, S.A.",
+      "simil": [
+         {
+            "codigo": "2583\"",
+            "nombre": "\"ALMANCAR, S.A. (2)",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "559\"": {
+      "Nombre Empresa": "\"BANCO DAVIVIENDA (PANAMA), S.A.",
+      "simil": [
+         {
+            "codigo": "12151\"",
+            "nombre": "\"BANCO FICOHSA (PANAMA), S.A.",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "12151\"": {
+      "Nombre Empresa": "\"BANCO FICOHSA (PANAMA), S.A.",
+      "simil": [
+         {
+            "codigo": "559\"",
+            "nombre": "\"BANCO DAVIVIENDA (PANAMA), S.A.",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "3073": {
+      "Nombre Empresa": "BENEMERITO CUERPO DE BOMBEROS DE CHITRE",
+      "simil": [
+         {
+            "codigo": "82",
+            "nombre": "BENEMERITO CUERPO DE BOMBEROS DE PANAMA",
+            "avgjrowinkler": 94.44444444444444,
+            "avgjellymatchratingcodex": 94.44444444444444
+         }
+      ]
+   },
+   "82": {
+      "Nombre Empresa": "BENEMERITO CUERPO DE BOMBEROS DE PANAMA",
+      "simil": [
+         {
+            "codigo": "3073",
+            "nombre": "BENEMERITO CUERPO DE BOMBEROS DE CHITRE",
+            "avgjrowinkler": 94.44444444444444,
+            "avgjellymatchratingcodex": 94.44444444444444
+         }
+      ]
+   },
+   "10276\"": {
+      "Nombre Empresa": "\"BIENES RAICES AGORA, S.A.",
+      "simil": [
+         {
+            "codigo": "7592\"",
+            "nombre": "\"BIENES RAICES METALICAS, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "7592\"": {
+      "Nombre Empresa": "\"BIENES RAICES METALICAS, S.A.",
+      "simil": [
+         {
+            "codigo": "10276\"",
+            "nombre": "\"BIENES RAICES AGORA, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "9430\"": {
+      "Nombre Empresa": "\"BOMBAS Y BALINERAS, S.A. (BOMBASA CHIRIQUI)",
+      "simil": [
+         {
+            "codigo": "6830\"",
+            "nombre": "\"BOMBAS Y BALINERAS, S.A. (BOMBASA)",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 97.22222222222223
+         }
+      ]
+   },
+   "6830\"": {
+      "Nombre Empresa": "\"BOMBAS Y BALINERAS, S.A. (BOMBASA)",
+      "simil": [
+         {
+            "codigo": "9430\"",
+            "nombre": "\"BOMBAS Y BALINERAS, S.A. (BOMBASA CHIRIQUI)",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 97.22222222222223
+         }
+      ]
+   },
+   "2761\"": {
+      "Nombre Empresa": "\"CENTRO DE AGENCIAS, S.A.",
+      "simil": [
+         {
+            "codigo": "9936\"",
+            "nombre": "\"CENTRO DE ORO, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "9936\"": {
+      "Nombre Empresa": "\"CENTRO DE ORO, S.A.",
+      "simil": [
+         {
+            "codigo": "2761\"",
+            "nombre": "\"CENTRO DE AGENCIAS, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "11514": {
+      "Nombre Empresa": "CENTRO DE SALUD AMELIA DENIS DE ICAZA",
+      "simil": [
+         {
+            "codigo": "11203",
+            "nombre": "CENTRO DE SALUD DE VERANILLO",
+            "avgjrowinkler": 85.33333333333333,
+            "avgjellymatchratingcodex": 85.33333333333333
+         }
+      ]
+   },
+   "11047": {
+      "Nombre Empresa": "CENTRO DE SALUD DE NUEVO CHORRILLO",
+      "simil": [
+         {
+            "codigo": "7561",
+            "nombre": "CENTRO DE SALUD DE PARQUE LEFEVRE",
+            "avgjrowinkler": 86.66666666666666,
+            "avgjellymatchratingcodex": 86.66666666666666
+         },
+         {
+            "codigo": "11359",
+            "nombre": "CENTRO DE SALUD DE SAN FELIPE",
+            "avgjrowinkler": 86.66666666666666,
+            "avgjellymatchratingcodex": 86.66666666666666
+         },
+         {
+            "codigo": "11203",
+            "nombre": "CENTRO DE SALUD DE VERANILLO",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         }
+      ]
+   },
+   "7561": {
+      "Nombre Empresa": "CENTRO DE SALUD DE PARQUE LEFEVRE",
+      "simil": [
+         {
+            "codigo": "11047",
+            "nombre": "CENTRO DE SALUD DE NUEVO CHORRILLO",
+            "avgjrowinkler": 86.66666666666666,
+            "avgjellymatchratingcodex": 86.66666666666666
+         },
+         {
+            "codigo": "11359",
+            "nombre": "CENTRO DE SALUD DE SAN FELIPE",
+            "avgjrowinkler": 86.66666666666666,
+            "avgjellymatchratingcodex": 86.66666666666666
+         },
+         {
+            "codigo": "11203",
+            "nombre": "CENTRO DE SALUD DE VERANILLO",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         }
+      ]
+   },
+   "11359": {
+      "Nombre Empresa": "CENTRO DE SALUD DE SAN FELIPE",
+      "simil": [
+         {
+            "codigo": "11047",
+            "nombre": "CENTRO DE SALUD DE NUEVO CHORRILLO",
+            "avgjrowinkler": 86.66666666666666,
+            "avgjellymatchratingcodex": 86.66666666666666
+         },
+         {
+            "codigo": "7561",
+            "nombre": "CENTRO DE SALUD DE PARQUE LEFEVRE",
+            "avgjrowinkler": 86.66666666666666,
+            "avgjellymatchratingcodex": 86.66666666666666
+         },
+         {
+            "codigo": "12108",
+            "nombre": "CENTRO DE SALUD DE SAN MIGUEL- EL GOLFO",
+            "avgjrowinkler": 90.97222222222223,
+            "avgjellymatchratingcodex": 90.97222222222223
+         },
+         {
+            "codigo": "11203",
+            "nombre": "CENTRO DE SALUD DE VERANILLO",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         }
+      ]
+   },
+   "12108": {
+      "Nombre Empresa": "CENTRO DE SALUD DE SAN MIGUEL- EL GOLFO",
+      "simil": [
+         {
+            "codigo": "11359",
+            "nombre": "CENTRO DE SALUD DE SAN FELIPE",
+            "avgjrowinkler": 90.97222222222223,
+            "avgjellymatchratingcodex": 90.97222222222223
+         },
+         {
+            "codigo": "11203",
+            "nombre": "CENTRO DE SALUD DE VERANILLO",
+            "avgjrowinkler": 86.0,
+            "avgjellymatchratingcodex": 86.0
+         }
+      ]
+   },
+   "11203": {
+      "Nombre Empresa": "CENTRO DE SALUD DE VERANILLO",
+      "simil": [
+         {
+            "codigo": "11514",
+            "nombre": "CENTRO DE SALUD AMELIA DENIS DE ICAZA",
+            "avgjrowinkler": 85.33333333333333,
+            "avgjellymatchratingcodex": 85.33333333333333
+         },
+         {
+            "codigo": "11047",
+            "nombre": "CENTRO DE SALUD DE NUEVO CHORRILLO",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         },
+         {
+            "codigo": "7561",
+            "nombre": "CENTRO DE SALUD DE PARQUE LEFEVRE",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         },
+         {
+            "codigo": "11359",
+            "nombre": "CENTRO DE SALUD DE SAN FELIPE",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         },
+         {
+            "codigo": "12108",
+            "nombre": "CENTRO DE SALUD DE SAN MIGUEL- EL GOLFO",
+            "avgjrowinkler": 86.0,
+            "avgjellymatchratingcodex": 86.0
+         }
+      ]
+   },
+   "14788\"": {
+      "Nombre Empresa": "\"CIA ALIMENTOS DE ANIMALES, S.A.",
+      "simil": [
+         {
+            "codigo": "9941\"",
+            "nombre": "\"CIA. ALIMENTOS DE ANIMALES, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "9941\"": {
+      "Nombre Empresa": "\"CIA. ALIMENTOS DE ANIMALES, S.A.",
+      "simil": [
+         {
+            "codigo": "14788\"",
+            "nombre": "\"CIA ALIMENTOS DE ANIMALES, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "2361": {
+      "Nombre Empresa": "CLINICA DENTAL CORRO MADURO",
+      "simil": [
+         {
+            "codigo": "2205",
+            "nombre": "CLINICA DENTAL",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "6910": {
+      "Nombre Empresa": "CLINICA DENTAL GENESIS",
+      "simil": [
+         {
+            "codigo": "2205",
+            "nombre": "CLINICA DENTAL",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "2205": {
+      "Nombre Empresa": "CLINICA DENTAL",
+      "simil": [
+         {
+            "codigo": "2361",
+            "nombre": "CLINICA DENTAL CORRO MADURO",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         },
+         {
+            "codigo": "6910",
+            "nombre": "CLINICA DENTAL GENESIS",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "3210": {
+      "Nombre Empresa": "COLEGIO BILINGUE ALFED B. NOBEL",
+      "simil": [
+         {
+            "codigo": "8672",
+            "nombre": "COLEGIO BILINGUE ALFRED B. NOBEL",
+            "avgjrowinkler": 89.33333333333333,
+            "avgjellymatchratingcodex": 89.33333333333333
+         }
+      ]
+   },
+   "8672": {
+      "Nombre Empresa": "COLEGIO BILINGUE ALFRED B. NOBEL",
+      "simil": [
+         {
+            "codigo": "3210",
+            "nombre": "COLEGIO BILINGUE ALFED B. NOBEL",
+            "avgjrowinkler": 89.33333333333333,
+            "avgjellymatchratingcodex": 89.33333333333333
+         }
+      ]
+   },
+   "3075": {
+      "Nombre Empresa": "COLEGIO DE LA SALLE",
+      "simil": [
+         {
+            "codigo": "13291",
+            "nombre": "COLEGIO LA SALLE MARGARITA",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "13291": {
+      "Nombre Empresa": "COLEGIO LA SALLE MARGARITA",
+      "simil": [
+         {
+            "codigo": "3075",
+            "nombre": "COLEGIO DE LA SALLE",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "14175": {
+      "Nombre Empresa": "COLEGIO ST MARY PANAMA OESTE",
+      "simil": [
+         {
+            "codigo": "2003",
+            "nombre": "COLEGIO ST MARY PANAMA",
+            "avgjrowinkler": 96.0,
+            "avgjellymatchratingcodex": 96.0
+         }
+      ]
+   },
+   "2003": {
+      "Nombre Empresa": "COLEGIO ST MARY PANAMA",
+      "simil": [
+         {
+            "codigo": "14175",
+            "nombre": "COLEGIO ST MARY PANAMA OESTE",
+            "avgjrowinkler": 96.0,
+            "avgjellymatchratingcodex": 96.0
+         }
+      ]
+   },
+   "517": {
+      "Nombre Empresa": "COMPAÑIA CHEVRON DE PANAMA",
+      "simil": [
+         {
+            "codigo": "1207",
+            "nombre": "COMPAÑIA MARITIMA DE PANAMA",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "1207": {
+      "Nombre Empresa": "COMPAÑIA MARITIMA DE PANAMA",
+      "simil": [
+         {
+            "codigo": "517",
+            "nombre": "COMPAÑIA CHEVRON DE PANAMA",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "13297": {
+      "Nombre Empresa": "CONSEJO PROVINCIAL DE COORDINACION DE COCLE",
+      "simil": [
+         {
+            "codigo": "10821",
+            "nombre": "CONSEJO PROVINCIAL DE COORDINACION DE HERRERA",
+            "avgjrowinkler": 94.44444444444444,
+            "avgjellymatchratingcodex": 94.44444444444444
+         }
+      ]
+   },
+   "10821": {
+      "Nombre Empresa": "CONSEJO PROVINCIAL DE COORDINACION DE HERRERA",
+      "simil": [
+         {
+            "codigo": "13297",
+            "nombre": "CONSEJO PROVINCIAL DE COORDINACION DE COCLE",
+            "avgjrowinkler": 94.44444444444444,
+            "avgjellymatchratingcodex": 94.44444444444444
+         }
+      ]
+   },
+   "10616\"": {
+      "Nombre Empresa": "\"CUADERNOS ESCOLARES, S.A. (CHIRIQUI)",
+      "simil": [
+         {
+            "codigo": "1956\"",
+            "nombre": "\"CUADERNOS ESCOLARES, S.A.",
+            "avgjrowinkler": 94.16666666666667,
+            "avgjellymatchratingcodex": 94.16666666666667
+         }
+      ]
+   },
+   "1956\"": {
+      "Nombre Empresa": "\"CUADERNOS ESCOLARES, S.A.",
+      "simil": [
+         {
+            "codigo": "10616\"",
+            "nombre": "\"CUADERNOS ESCOLARES, S.A. (CHIRIQUI)",
+            "avgjrowinkler": 94.16666666666667,
+            "avgjellymatchratingcodex": 94.16666666666667
+         }
+      ]
+   },
+   "2925": {
+      "Nombre Empresa": "CUERPO DE BOMBEROS DE COLON",
+      "simil": [
+         {
+            "codigo": "5285",
+            "nombre": "CUERPO DE BOMBEROS DE LOS SANTOS",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         },
+         {
+            "codigo": "5207",
+            "nombre": "CUERPO DE BOMBEROS DE SONA",
+            "avgjrowinkler": 92.0,
+            "avgjellymatchratingcodex": 92.0
+         }
+      ]
+   },
+   "5285": {
+      "Nombre Empresa": "CUERPO DE BOMBEROS DE LOS SANTOS",
+      "simil": [
+         {
+            "codigo": "2925",
+            "nombre": "CUERPO DE BOMBEROS DE COLON",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         },
+         {
+            "codigo": "5207",
+            "nombre": "CUERPO DE BOMBEROS DE SONA",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         }
+      ]
+   },
+   "5207": {
+      "Nombre Empresa": "CUERPO DE BOMBEROS DE SONA",
+      "simil": [
+         {
+            "codigo": "2925",
+            "nombre": "CUERPO DE BOMBEROS DE COLON",
+            "avgjrowinkler": 92.0,
+            "avgjellymatchratingcodex": 92.0
+         },
+         {
+            "codigo": "5285",
+            "nombre": "CUERPO DE BOMBEROS DE LOS SANTOS",
+            "avgjrowinkler": 89.33333333333334,
+            "avgjellymatchratingcodex": 89.33333333333334
+         }
+      ]
+   },
+   "13223": {
+      "Nombre Empresa": "EDIFICIO P.H. ROYAL CENTER",
+      "simil": [
+         {
+            "codigo": "2956",
+            "nombre": "EDIFICIO P.H. ROYAL PALACE",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "2956": {
+      "Nombre Empresa": "EDIFICIO P.H. ROYAL PALACE",
+      "simil": [
+         {
+            "codigo": "13223",
+            "nombre": "EDIFICIO P.H. ROYAL CENTER",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "12405": {
+      "Nombre Empresa": "ELECTRISA",
+      "simil": [
+         {
+            "codigo": "14163",
+            "nombre": "ELECTRISA",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "14163": {
+      "Nombre Empresa": "ELECTRISA",
+      "simil": [
+         {
+            "codigo": "12405",
+            "nombre": "ELECTRISA",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "8990\"": {
+      "Nombre Empresa": "\"EMPRESAS MELO, S.A. (020)",
+      "simil": [
+         {
+            "codigo": "8989\"",
+            "nombre": "\"EMPRESAS MELO, S.A.",
+            "avgjrowinkler": 94.16666666666667,
+            "avgjellymatchratingcodex": 94.16666666666667
+         }
+      ]
+   },
+   "8989\"": {
+      "Nombre Empresa": "\"EMPRESAS MELO, S.A.",
+      "simil": [
+         {
+            "codigo": "8990\"",
+            "nombre": "\"EMPRESAS MELO, S.A. (020)",
+            "avgjrowinkler": 94.16666666666667,
+            "avgjellymatchratingcodex": 94.16666666666667
+         }
+      ]
+   },
+   "14066": {
+      "Nombre Empresa": "ESCUELA BUEN PASTOR VOZ DE ALERTA",
+      "simil": [
+         {
+            "codigo": "12512",
+            "nombre": "ESCUELA EL BUEN PASTOR VOZ DE ALERTA",
+            "avgjrowinkler": 95.71428571428572,
+            "avgjellymatchratingcodex": 95.71428571428572
+         }
+      ]
+   },
+   "3922": {
+      "Nombre Empresa": "ESCUELA EL BUEN PASTOR (DAVID)",
+      "simil": [
+         {
+            "codigo": "12512",
+            "nombre": "ESCUELA EL BUEN PASTOR VOZ DE ALERTA",
+            "avgjrowinkler": 87.42857142857143,
+            "avgjellymatchratingcodex": 87.42857142857143
+         }
+      ]
+   },
+   "12512": {
+      "Nombre Empresa": "ESCUELA EL BUEN PASTOR VOZ DE ALERTA",
+      "simil": [
+         {
+            "codigo": "14066",
+            "nombre": "ESCUELA BUEN PASTOR VOZ DE ALERTA",
+            "avgjrowinkler": 95.71428571428572,
+            "avgjellymatchratingcodex": 95.71428571428572
+         },
+         {
+            "codigo": "3922",
+            "nombre": "ESCUELA EL BUEN PASTOR (DAVID)",
+            "avgjrowinkler": 87.42857142857143,
+            "avgjellymatchratingcodex": 87.42857142857143
+         }
+      ]
+   },
+   "289": {
+      "Nombre Empresa": "ESCUELA INTERNACIONAL DE PANAMA",
+      "simil": [
+         {
+            "codigo": "15020",
+            "nombre": "ESCUELA MONTESORI DE PANAMA",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "15020": {
+      "Nombre Empresa": "ESCUELA MONTESORI DE PANAMA",
+      "simil": [
+         {
+            "codigo": "289",
+            "nombre": "ESCUELA INTERNACIONAL DE PANAMA",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "3760\"": {
+      "Nombre Empresa": "\"EULEN PANAMA DE SEGURIDAD, S.A.",
+      "simil": [
+         {
+            "codigo": "2985\"",
+            "nombre": "\"EULEN PANAMA DE SERVICIOS, S.A.",
+            "avgjrowinkler": 90.66666666666667,
+            "avgjellymatchratingcodex": 90.66666666666667
+         }
+      ]
+   },
+   "2985\"": {
+      "Nombre Empresa": "\"EULEN PANAMA DE SERVICIOS, S.A.",
+      "simil": [
+         {
+            "codigo": "3760\"",
+            "nombre": "\"EULEN PANAMA DE SEGURIDAD, S.A.",
+            "avgjrowinkler": 90.66666666666667,
+            "avgjellymatchratingcodex": 90.66666666666667
+         }
+      ]
+   },
+   "255\"": {
+      "Nombre Empresa": "\"GEO F. NOVEY, INC.",
+      "simil": [
+         {
+            "codigo": "3408\"",
+            "nombre": "\"GEO F. NOVEY, INC",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "3408\"": {
+      "Nombre Empresa": "\"GEO F. NOVEY, INC",
+      "simil": [
+         {
+            "codigo": "255\"",
+            "nombre": "\"GEO F. NOVEY, INC.",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "6915": {
+      "Nombre Empresa": "HOTEL INTERCONTINENTAL PLAYA BONITA",
+      "simil": [
+         {
+            "codigo": "12412",
+            "nombre": "HOTEL WESTIN PLAYA BONITA",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "12412": {
+      "Nombre Empresa": "HOTEL WESTIN PLAYA BONITA",
+      "simil": [
+         {
+            "codigo": "6915",
+            "nombre": "HOTEL INTERCONTINENTAL PLAYA BONITA",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "3574\"": {
+      "Nombre Empresa": "\"IMPORTADORA DE BATERIAS, S.A.",
+      "simil": [
+         {
+            "codigo": "14857\"",
+            "nombre": "\"IMPORTADORA DE GRANOS, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "14857\"": {
+      "Nombre Empresa": "\"IMPORTADORA DE GRANOS, S.A.",
+      "simil": [
+         {
+            "codigo": "3574\"",
+            "nombre": "\"IMPORTADORA DE BATERIAS, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "7538\"": {
+      "Nombre Empresa": "\"IMPORTADORA VIRZI, S.A.",
+      "simil": [
+         {
+            "codigo": "9284\"",
+            "nombre": "\"IMPORTADORA VIRZI, S.A.",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "9284\"": {
+      "Nombre Empresa": "\"IMPORTADORA VIRZI, S.A.",
+      "simil": [
+         {
+            "codigo": "7538\"",
+            "nombre": "\"IMPORTADORA VIRZI, S.A.",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "11323": {
+      "Nombre Empresa": "INDEPENDIENTE EXTRANJERO",
+      "simil": [
+         {
+            "codigo": "360",
+            "nombre": "INDEPENDIENTE",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "13543": {
+      "Nombre Empresa": "INDEPENDIENTE INFORMAL",
+      "simil": [
+         {
+            "codigo": "360",
+            "nombre": "INDEPENDIENTE",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "360": {
+      "Nombre Empresa": "INDEPENDIENTE",
+      "simil": [
+         {
+            "codigo": "11323",
+            "nombre": "INDEPENDIENTE EXTRANJERO",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         },
+         {
+            "codigo": "13543",
+            "nombre": "INDEPENDIENTE INFORMAL",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "15058": {
+      "Nombre Empresa": "INSTITUTO DE MERCADEO AGROPECUARIO",
+      "simil": [
+         {
+            "codigo": "3146",
+            "nombre": "INSTITUTO DE SEGURO AGROPECUARIO",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "3146": {
+      "Nombre Empresa": "INSTITUTO DE SEGURO AGROPECUARIO",
+      "simil": [
+         {
+            "codigo": "15058",
+            "nombre": "INSTITUTO DE MERCADEO AGROPECUARIO",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "47": {
+      "Nombre Empresa": "INSTITUTO EPISCOPAL SAN CRISTOBAL",
+      "simil": [
+         {
+            "codigo": "6856",
+            "nombre": "INSTITUTO EPISCOPAL SAN JOSÉ",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "6856": {
+      "Nombre Empresa": "INSTITUTO EPISCOPAL SAN JOSÉ",
+      "simil": [
+         {
+            "codigo": "47",
+            "nombre": "INSTITUTO EPISCOPAL SAN CRISTOBAL",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "10679": {
+      "Nombre Empresa": "INSTITUTO PANAMERICANO NOCTURNO",
+      "simil": [
+         {
+            "codigo": "8869",
+            "nombre": "INSTITUTO PANAMERICANO",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "8869": {
+      "Nombre Empresa": "INSTITUTO PANAMERICANO",
+      "simil": [
+         {
+            "codigo": "10679",
+            "nombre": "INSTITUTO PANAMERICANO NOCTURNO",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "11933": {
+      "Nombre Empresa": "INVERSIONES ARIZONA S A",
+      "simil": [
+         {
+            "codigo": "14199",
+            "nombre": "INVERSIONES MARCONELA S A",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "14199": {
+      "Nombre Empresa": "INVERSIONES MARCONELA S A",
+      "simil": [
+         {
+            "codigo": "11933",
+            "nombre": "INVERSIONES ARIZONA S A",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "10399": {
+      "Nombre Empresa": "P.H. COSTA PACIFICA TORRE 200",
+      "simil": [
+         {
+            "codigo": "14351",
+            "nombre": "P.H. COSTA PACIFICA TORRE 400",
+            "avgjrowinkler": 92.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "14351": {
+      "Nombre Empresa": "P.H. COSTA PACIFICA TORRE 400",
+      "simil": [
+         {
+            "codigo": "10399",
+            "nombre": "P.H. COSTA PACIFICA TORRE 200",
+            "avgjrowinkler": 92.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "13761\"": {
+      "Nombre Empresa": "\"PANAMA CLEAN SERVICES, S.A.",
+      "simil": [
+         {
+            "codigo": "15095\"",
+            "nombre": "\"PANAMA COOL SERVICES, S.A.",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "15095\"": {
+      "Nombre Empresa": "\"PANAMA COOL SERVICES, S.A.",
+      "simil": [
+         {
+            "codigo": "13761\"",
+            "nombre": "\"PANAMA CLEAN SERVICES, S.A.",
+            "avgjrowinkler": 85.00000000000001,
+            "avgjellymatchratingcodex": 85.00000000000001
+         }
+      ]
+   },
+   "3566\"": {
+      "Nombre Empresa": "\"PANAMEÑA DE HELADOS, S.A.",
+      "simil": [
+         {
+            "codigo": "434\"",
+            "nombre": "\"PANAMEÑA DE MOTORES, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "434\"": {
+      "Nombre Empresa": "\"PANAMEÑA DE MOTORES, S.A.",
+      "simil": [
+         {
+            "codigo": "3566\"",
+            "nombre": "\"PANAMEÑA DE HELADOS, S.A.",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "2704": {
+      "Nombre Empresa": "PAYLESS SHOES SOURCE",
+      "simil": [
+         {
+            "codigo": "2760",
+            "nombre": "PAYLESS SHOES",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "2760": {
+      "Nombre Empresa": "PAYLESS SHOES",
+      "simil": [
+         {
+            "codigo": "2704",
+            "nombre": "PAYLESS SHOES SOURCE",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "376\"": {
+      "Nombre Empresa": "\"POLYENVASES, S.A.",
+      "simil": [
+         {
+            "codigo": "5109\"",
+            "nombre": "\"POLYENVASES, S.A.",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "5109\"": {
+      "Nombre Empresa": "\"POLYENVASES, S.A.",
+      "simil": [
+         {
+            "codigo": "376\"",
+            "nombre": "\"POLYENVASES, S.A.",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "14421": {
+      "Nombre Empresa": "PROPERTY MANAGEMENT SERVICES INC",
+      "simil": [
+         {
+            "codigo": "12449",
+            "nombre": "PROPERTY MANAGEMENT SOLUTIONS INC",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "12449": {
+      "Nombre Empresa": "PROPERTY MANAGEMENT SOLUTIONS INC",
+      "simil": [
+         {
+            "codigo": "14421",
+            "nombre": "PROPERTY MANAGEMENT SERVICES INC",
+            "avgjrowinkler": 86.66666666666667,
+            "avgjellymatchratingcodex": 86.66666666666667
+         }
+      ]
+   },
+   "14152\"": {
+      "Nombre Empresa": "\"PROYECTOS Y DESARROLLOS DE CAPIRA, S.A.",
+      "simil": [
+         {
+            "codigo": "14158\"",
+            "nombre": "\"PROYECTOS Y DESARROLLOS DE CASAS, S.A.",
+            "avgjrowinkler": 93.33333333333333,
+            "avgjellymatchratingcodex": 93.33333333333333
+         }
+      ]
+   },
+   "14158\"": {
+      "Nombre Empresa": "\"PROYECTOS Y DESARROLLOS DE CASAS, S.A.",
+      "simil": [
+         {
+            "codigo": "14152\"",
+            "nombre": "\"PROYECTOS Y DESARROLLOS DE CAPIRA, S.A.",
+            "avgjrowinkler": 93.33333333333333,
+            "avgjellymatchratingcodex": 93.33333333333333
+         }
+      ]
+   },
+   "11033": {
+      "Nombre Empresa": "SALA DE BELLEZA BETEL",
+      "simil": [
+         {
+            "codigo": "13338",
+            "nombre": "SALA DE BELLEZA ELIDIN",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "13338": {
+      "Nombre Empresa": "SALA DE BELLEZA ELIDIN",
+      "simil": [
+         {
+            "codigo": "11033",
+            "nombre": "SALA DE BELLEZA BETEL",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "2116": {
+      "Nombre Empresa": "SALON DE BELLEZA CHALNS",
+      "simil": [
+         {
+            "codigo": "8921",
+            "nombre": "SALON DE BELLEZA RIZOS",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "8921": {
+      "Nombre Empresa": "SALON DE BELLEZA RIZOS",
+      "simil": [
+         {
+            "codigo": "2116",
+            "nombre": "SALON DE BELLEZA CHALNS",
+            "avgjrowinkler": 88.33333333333334,
+            "avgjellymatchratingcodex": 88.33333333333334
+         }
+      ]
+   },
+   "13247": {
+      "Nombre Empresa": "TRANSPORTES FERGUSON CHITRÉ",
+      "simil": [
+         {
+            "codigo": "6727",
+            "nombre": "TRANSPORTES FERGUSON",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "6727": {
+      "Nombre Empresa": "TRANSPORTES FERGUSON",
+      "simil": [
+         {
+            "codigo": "13247",
+            "nombre": "TRANSPORTES FERGUSON CHITRÉ",
+            "avgjrowinkler": 91.11111111111111,
+            "avgjellymatchratingcodex": 91.11111111111111
+         }
+      ]
+   },
+   "10460": {
+      "Nombre Empresa": "UNIVERSIDAD DE PANAMA (UTILIZAR #64)",
+      "simil": [
+         {
+            "codigo": "64",
+            "nombre": "UNIVERSIDAD DE PANAMA",
+            "avgjrowinkler": 90.66666666666667,
+            "avgjellymatchratingcodex": 90.66666666666667
+         }
+      ]
+   },
+   "64": {
+      "Nombre Empresa": "UNIVERSIDAD DE PANAMA",
+      "simil": [
+         {
+            "codigo": "10460",
+            "nombre": "UNIVERSIDAD DE PANAMA (UTILIZAR #64)",
+            "avgjrowinkler": 90.66666666666667,
+            "avgjellymatchratingcodex": 90.66666666666667
+         },
+         {
+            "codigo": "121",
+            "nombre": "UNIVERSIDAD TECNOLOGICA DE PANAMA",
+            "avgjrowinkler": 92.5,
+            "avgjellymatchratingcodex": 92.5
+         }
+      ]
+   },
+   "561": {
+      "Nombre Empresa": "UNIVERSIDAD SANTA MARIA LA ANTIGUA",
+      "simil": [
+         {
+            "codigo": "7098",
+            "nombre": "UNIVERSIDAD SANTA MARIA LA ANTIGUA",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "7098": {
+      "Nombre Empresa": "UNIVERSIDAD SANTA MARIA LA ANTIGUA",
+      "simil": [
+         {
+            "codigo": "561",
+            "nombre": "UNIVERSIDAD SANTA MARIA LA ANTIGUA",
+            "avgjrowinkler": 100.0,
+            "avgjellymatchratingcodex": 100.0
+         }
+      ]
+   },
+   "121": {
+      "Nombre Empresa": "UNIVERSIDAD TECNOLOGICA DE PANAMA",
+      "simil": [
+         {
+            "codigo": "64",
+            "nombre": "UNIVERSIDAD DE PANAMA",
+            "avgjrowinkler": 92.5,
+            "avgjellymatchratingcodex": 92.5
+         }
+      ]
+   },
+   "9216\"": {
+      "Nombre Empresa": "\"VARELA HERMANOS, S.A. PESE",
+      "simil": [
+         {
+            "codigo": "314\"",
+            "nombre": "\"VARELA HERMANOS, S.A.",
+            "avgjrowinkler": 94.16666666666667,
+            "avgjellymatchratingcodex": 94.16666666666667
+         }
+      ]
+   },
+   "314\"": {
+      "Nombre Empresa": "\"VARELA HERMANOS, S.A.",
+      "simil": [
+         {
+            "codigo": "9216\"",
+            "nombre": "\"VARELA HERMANOS, S.A. PESE",
+            "avgjrowinkler": 94.16666666666667,
+            "avgjellymatchratingcodex": 94.16666666666667
+         }
+      ]
+   }
+}
