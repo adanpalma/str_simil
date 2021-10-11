@@ -39,7 +39,7 @@ def compara_similutes(ptext1: str, ptext2: str) -> float:
 
 
 file_to_open = Path("inputs/nombre_empresas.csv")
-with open(file_to_open) as f:
+with open(file_to_open,encoding='utf-8') as f:
 	empresa_y_codigo = f.readlines()
 
 # Separo descripcion y codigo ya que viene en la descripcion y los guardo por separado
@@ -71,4 +71,4 @@ for idx, nombre_empresa1 in enumerate(empresa_sin_codigo):
 
 pathtofile = Path('output/similitudes.json')
 with open(pathtofile, 'w') as outputfile:
-	json.dump(similitudes, outputfile, indent=3)
+	json.dump(similitudes, outputfile, indent=3, ensure_ascii=False)
