@@ -12,6 +12,7 @@ max_avg = 100
 
 def registra_similitudes(cod_empresa1: str, nombre_empresa1: str, cod_empresa2: str, nombre_empresa2: str, avg: float,
                          avg1) -> None:
+	
 	if not (cod_empresa1 in similitudes):
 		similitudes[cod_empresa1] = {'Nombre Empresa':nombre_empresa1, 'simil':[]}
 	
