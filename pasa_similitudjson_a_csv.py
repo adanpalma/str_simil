@@ -2,9 +2,9 @@ import csv
 import json
 from pathlib import Path
 
-def pasa_similitudes_a_csv(pais):
-	in_path_n_file = Path('output/similitudes_' + pais + '.json')
-	out_path_n_file = Path('output/similitudes_' + pais + '.csv')
+def pasa_similitudes_a_csv(pais, tema):
+	in_path_n_file = Path('output/similitudes_' + tema + pais + '.json')
+	out_path_n_file = Path('output/similitudes_' + tema + pais + '.csv')
 
 	out_file =  open(out_path_n_file,"w")
 
