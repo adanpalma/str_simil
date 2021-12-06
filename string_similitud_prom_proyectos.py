@@ -9,17 +9,11 @@ from tkinter import *
 import time
 import sys
 
-# Este script espera usted le pase un archivo csv con una sola columna
-#sin titulo y dentro de cada fila debe colocar la descripcion de lo que quiere comparar
-# seguido de un * y el codigo interno que lleva en el sistema
-#ejemplo:   Proyecto1*1233
-#           Proyecto ZZZ*123
-#Con este formato el script funciona y sabe que lo que esta antes de los * es la desciprion a comparar
-#y lo que esta despues es el codigo que tiene en el sistema appx
-#el resultado es un .json y un .csv con cada una de las similitudes que superan el umbral de similitud
-#el resultado queda en el directorio output.
 
-
+#Este python scripts  busca similitudes entre proyectos del mismo promotor
+#es decir, no hace un barrido de todos los proyectgos y los compara ya que
+#los proyectos estan agrupados por promotor y por tanto lo que se desea saber es si
+#hay proyectos parecidos entre promotores y proyectos unicos
 
 
 similitudes = {}
@@ -28,15 +22,10 @@ min_avg = 91.00
 max_avg = 100
 numero_algoritmos = 2
 
+
 def registra_similitudes(cod_empresa1: str, nombre_empresa1: str, cod_empresa2: str,  nombre_empresa2: str,
                          avg: float,  avg1: float) -> None:
-    #Se trata de valdiar que no se haya creado la relacion entre empresas y evitar duplicar
-    #el hallazgo de similitud
-    if not (cod_empresa1 in similitudes):
-        if  (cod_empresa2 in similitudes):
-            for codigo  in similitudes[cod_empresa2]['simil']:
-                if cod_empresa1 == codigo['codigo']:
-                    return
+
 
     if not (cod_empresa1 in similitudes):
         similitudes[cod_empresa1] = {'Nombre Empresa': nombre_empresa1, 'simil': []}
@@ -103,7 +92,6 @@ for idx, nombre_empresa1 in enumerate(empresa_sin_codigo):
         if ((numero_algoritmos == 1) and (avg > min_avg and avg <= max_avg)) \
                 or  ((numero_algoritmos == 2) and
                      ((avg > min_avg and avg <= max_avg) and (avg1 > min_avg and avg1 <= max_avg))):
-
             registra_similitudes(codigo_empresa[idx], nombre_empresa1, codigo_empresa[idx1], nombre_empresa2, avg,avg1)
 
 

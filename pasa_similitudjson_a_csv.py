@@ -9,7 +9,7 @@ def pasa_similitudes_a_csv(pais, tema):
 	out_file =  open(out_path_n_file,"w")
 
 	simil_writer = csv.writer(out_file, delimiter =',')
-	simil_writer.writerow(['Cod Empresa1','Nombre Empresa1','Cod Emrpesa2','Nombre Empresa2', 'Avg1','Avg2'])
+	simil_writer.writerow(['Codigo String 1','Descripcion String 1','Codigo String 2 Encontrado','Descripcion String 2 Econtrado', 'Avg1','Avg2'])
 
 
 	with open(in_path_n_file, 'r') as file_obj:
