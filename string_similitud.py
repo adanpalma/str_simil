@@ -9,11 +9,13 @@ from tkinter import *
 import time
 import sys
 
+
 # Este script espera usted le pase un archivo csv con una sola columna
 #sin titulo y dentro de cada fila debe colocar la descripcion de lo que quiere comparar
 # seguido de un * y el codigo interno que lleva en el sistema
 #ejemplo:   Proyecto1*1233
 #           Proyecto ZZZ*123
+
 #Con este formato el script funciona y sabe que lo que esta antes de los * es la desciprion a comparar
 #y lo que esta despues es el codigo que tiene en el sistema appx
 #el resultado es un .json y un .csv con cada una de las similitudes que superan el umbral de similitud

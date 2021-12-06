@@ -14,14 +14,12 @@ import sys
 #es decir, no hace un barrido de todos los proyectgos y los compara ya que
 #los proyectos estan agrupados por promotor y por tanto lo que se desea saber es si
 #hay proyectos parecidos entre promotores y proyectos unicos
-#TODO:
-"""
 
-string_similitud_prom_proyectos solo duplique el codigo pero aun no hace nada, 
-Hay que refactorizarlos para que pueda manejar  este concepto de buscar solo 
-proyuectos duplicados dentro de un mismo promotor y si tiene el codigo_unico 
-solo mostrar aquellos que se parecen pero que el codigo de proyecto unico es diferente.  
-Si no tiene el codigo de proyecto unico
+"""
+Este script es para compara promotores y proyectos. Aun no esta terminado
+la idea es que se pueda buscar por cada promotor los proyectos similares a nivel de nombre pero
+que tienen un codigo de proyecto unico diferente, solo esos serian lo que habria 
+mostrar
 """
 
 
